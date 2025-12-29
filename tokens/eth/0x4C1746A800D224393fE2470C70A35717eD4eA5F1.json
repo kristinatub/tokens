@@ -1,13 +1,13 @@
 {
-  "symbol": "nTBILL",
-  "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
-  "decimals": 6,
-  "name": "Nest Treasuries Vault",
+  "symbol": "Plume",
+  "address": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+  "decimals": 18,
+  "name": "Plume",
   "type": "ERC20",
   "ens_address": "",
   "website": "plume.org",
   "logo": {
-    "src": "https://assets.plume.org/images/logos/nest/nTBILL/nTBILL-token.svg",
+    "src": "https://assets.plume.org/images/logos/plume/plume-token.svg",
     "width": "64",
     "height": "64",
     "ipfs_hash": ""

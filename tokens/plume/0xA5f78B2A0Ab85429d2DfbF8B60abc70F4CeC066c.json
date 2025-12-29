@@ -1,6 +1,6 @@
 {
   "symbol": "nCREDIT",
-  "address": "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c",
+  "address": "0xA5f78B2A0Ab85429d2DfbF8B60abc70F4CeC066c",
   "decimals": 6,
   "name": "Nest Credit Vault",
   "type": "ERC20",
